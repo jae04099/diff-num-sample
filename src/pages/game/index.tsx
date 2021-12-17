@@ -1,4 +1,4 @@
-import { Board } from '../../components';
+import Board from '../../components/RndBoard';
 import styled from 'styled-components'
 import type { NextPage } from 'next';
 import React from 'react';
